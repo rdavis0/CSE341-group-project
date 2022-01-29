@@ -1,0 +1,6 @@
+// push to heroku
+$ git push heroku master
+
+package.json:
+    might need to switch this to node index.js
+    "start": "nodemon index.js", 
